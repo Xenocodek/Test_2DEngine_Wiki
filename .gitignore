@@ -1,0 +1,7 @@
+.venv
+.env
+logging.log
+__pycache__
+.pytest_cache
+.vscode
+database/casino_bot.db
